@@ -16,3 +16,5 @@
 4. u (fout)
 5. a (goed)
 6. n (goed)
+7. b
+8. 
