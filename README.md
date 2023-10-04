@@ -17,4 +17,4 @@
 5. a (goed)
 6. n (goed)
 7. b (goed)
-8. 
+8. r
