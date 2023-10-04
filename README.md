@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|7|8|
 
 ## Score
-![gallow](./images/4.png)
+![gallow](./images/5.png)
 
 ## Beurten
 1. e (goed)
@@ -18,4 +18,4 @@
 6. n (goed)
 7. b (goed)
 8. r (goed)
-9. m
+9. m (fout)
