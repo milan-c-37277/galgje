@@ -19,3 +19,4 @@
 7. b (goed)
 8. r (goed)
 9. m (fout)
+10. o
