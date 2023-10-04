@@ -11,3 +11,4 @@
 
 ## Beurten
 1. e (goed)
+2. i
