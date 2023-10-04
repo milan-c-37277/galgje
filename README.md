@@ -16,3 +16,4 @@
 4. p (fout)
 5. i (goed)
 6. n (goed)
+7. t
