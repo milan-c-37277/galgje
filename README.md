@@ -15,3 +15,4 @@
 3. s (fout)
 4. p (fout)
 5. i (goed)
+6. n
