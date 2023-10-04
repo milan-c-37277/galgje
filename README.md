@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|t|.|e|i|n|
+|t|r|e|i|n|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -17,4 +17,4 @@
 5. i (goed)
 6. n (goed)
 7. t (goed)
-8. r
+8. r (goed)
