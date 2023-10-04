@@ -17,3 +17,4 @@
 5. i (goed)
 6. n (goed)
 7. t (goed)
+8. r
